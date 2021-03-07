@@ -1,2 +1,5 @@
-# angryBirdsStage2.5
-Angry Birds stage 2.5 with Class Inheritance and Images
+AngryBirdsStage2.5StudentActivity
+Made by Shaan Duggal
+On his 26th class
+On the 7th of march
+In the year 2021
